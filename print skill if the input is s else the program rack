@@ -1,0 +1,7 @@
+the program must print skill if the input is s else the program rack
+s=input()
+if uinput=='s':
+  print("skill")
+else:
+  print("rack")
+
